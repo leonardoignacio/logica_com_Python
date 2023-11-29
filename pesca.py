@@ -11,7 +11,7 @@ if (kg > limite):
     multa = diferenca * taxa
 print(f'Cálculo p/ Pescaria')
 print(f'A quantidade pescada foi: {kg:.2f}kg')
-print(f'A diferença entre o limite foi: {diferenca:.2f}')
+print(f'A diferença entre o limite é: {diferenca:.2f}')
 print(f'O valor de multa é:R${multa:.2f}')
 
 
